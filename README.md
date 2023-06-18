@@ -1,0 +1,1 @@
+ the customer data is stored in a vector of Customer structures. The program provides a simple menu-based interface to perform CRUD operations on the customer data, including adding a customer, viewing the list of customers, updating customer information, and deleting a customer.
